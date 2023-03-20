@@ -1,0 +1,10 @@
+REFERENCES
+[1] E. Hjelmås, and B. K. Low, “Face detection: A survey”, Computer Vision and Image Understanding, Vol. 83, No. 3, Sept. 2001, pp. 236-274. 
+[2] A. Abdallah, M. Abou El-Nasr, and A. Lynn Abbott, “A New Face Detection Technique using 2D DCT and Self Organizing Feature Map” in Proc. of World Academy of Science, Engineering and Technology, Vol. 21, May 2007, pp. 15-19. 
+[3] J. Nagi, “Design of an Efficient High-speed Face Recognition System”, Department of Electrical and Electronics Engineering, College of Engineering, Universiti Tenaga Nasional, March 2007. 
+[4] D. Kumar, C.S. Rai, and S. Kumar, “Face Recognition using SelfOrganizing Map and Principal Component Analysis” in Proc. on Neural Networks and Brain, ICNNB 2005, Vol. 3, Oct 2005, pp. 1469-1473.
+ [7] Y. Zi Lu and Z. You Wei, “Facial Expression Recognition Based on Wavelet Transform and MLP Neural Network”, in Proc. 7th International Conference on Signal Processing, ICSP 2004, Vol. 2, Aug 2004, pp. 1340-1343.
+[8] M. H. Yang, D. J. Kriegman, and N. Ahuja, “Detecting faces in images: a survey”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 24, No. 1, Jan. 2002, pp. 34 - 58. 
+[10] H. Kruppa, M. A. Bauer, and B. Schiele, “Skin patch detection in realworld images”, in Proc. of the DAGM-Symposium, 2002, pp. 109-116.
+[11] R.L.Rivest, A.Shamir, and L.Adleman, “A Method for Obtaining Digital Signatures and Public-Key Cryptosystems,” Communication of the ACM, Volume 21 No. 2, Feb. 1978.
+[12] Open Source Computer Vision Library, “The OpenCV Tutorial” https://docs.opencv.org/2.4/opencv tutorials.pdf

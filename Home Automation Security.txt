@@ -1,0 +1,11 @@
+Home Automation System (Camera Security & Smart Door):-
+Drawbacks:-
+1. While message transfer is being done, there may be typos which text-to-speech conversion API cannot really detect.
+Correction:- (i) either a proper checking module before TTS conversion
+	   (ii) message can be sent back highlighting the error so the sender can correct it
+2. What if the person is busy or in a meeting or in a flight and is unable to provide instant reply to the notification of a person at his door?
+3. What if the close relative is just a mask which the camera ia unable to detect? In such cases, burglary and robbery might occur.
+Future Implementations:-
+1. Screen for video: one-to-one call instead message generation after the notification is sent to the person
+2. What if some close relative arrives who is supposed to wait inside the house? Then passcode can be sent to the smart door and the person can enter easily and the sensors can detect movement inside and then lock the door accordingly
+3. Digital signature: scanning of the signature and print on the paper of the courier guy or postman
